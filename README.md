@@ -1,3 +1,8 @@
+# 改写目的：
+delete and make a tinyLib framework for better understanding the code
+
+
+
 candi (Compile &amp; Install)
 =====
 
